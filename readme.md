@@ -20,13 +20,11 @@ All core codes have been included, i.e., the construction of homophilic and hete
 
 # Citation
 ```
-@misc{pan2023homophily,
+@inproceedingspan2023homophily,
       title={Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering}, 
       author={Erlin Pan and Zhao Kang},
       year={2023},
-      eprint={2305.02931},
-      archivePrefix={arXiv},
-      primaryClass={cs.SI}
+   booktitle={Proceedings of the Fortieth International Conference on Machine Learning（ICML）},
 }
 ```
 
